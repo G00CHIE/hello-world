@@ -1,3 +1,6 @@
 # hello-world
-beginning
-I am new to coding and i'm nervous.
+
+hi!
+
+I'm Goochie, I am new to coding.
+But I'm excited about learning.
